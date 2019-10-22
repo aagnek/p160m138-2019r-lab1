@@ -1,6 +1,6 @@
 
-def greet(name:str):
-    print ("Hello,"+name+ "!")
+def greet(greeted_name:str):
+    print ("Hello,"+greeted_name+ "!")
     
  
 greet(input())
